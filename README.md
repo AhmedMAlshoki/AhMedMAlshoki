@@ -38,11 +38,8 @@ If you're interested in discussing collaborations or just want to have a chat, f
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMAlshoki)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMAlshoki)
 
-## Let's Connect! 🤝
-
-Add some visually appealing badges here to reflect your interests and initiatives.
-
 ## Concluding Thoughts ☺️
 
 Even with my limited GitHub activity, I remain passionate about software development and committed to acquiring new skills. I continuously strive to improve my coding abilities through personal projects and aspire to contribute to the open-source community. If you're interested in collaborating or getting to know me better, let's connect!
 -->
+Gmail : ahmed.m.alshoki@gmail.com
