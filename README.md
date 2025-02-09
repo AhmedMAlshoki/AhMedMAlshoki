@@ -1,6 +1,6 @@
 # Ahmed Alshoki - GitHub Profile
 
-![Ahmed Alshoki - GitHub Profile](https://github.com/AhmedMAlshoki.png)
+
 
 Welcome to my GitHub profile! I'm Ahmed Alshoki, a passionate developer and tech enthusiast. While my GitHub activity may be relatively low, I'm always exploring new technologies and working on personal coding projects. With a primary focus on Java development, I am continuously expanding my skills while seeking opportunities to contribute to collaborative projects.
 
