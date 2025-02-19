@@ -20,9 +20,7 @@ These projects highlight my expertise in Java and are stepping stones towards mo
 
 ## GitHub Overview 👨‍💻
 
-⚡ With just over 14 commits, my GitHub activity may seem comparatively low. However, these numbers are a testament to my dedication towards quality over quantity. 
 
-⭐ I have one public repository, "E-Commerce," which stands as a testament to my Java development skills.
 
 🌟 While my GitHub following and follower counts remain limited, I am eager to collaborate with fellow developers to unlock new possibilities.
 
@@ -30,6 +28,7 @@ These projects highlight my expertise in Java and are stepping stones towards mo
 
 - GitHub: [Ahmed Alshoki](https://github.com/AhmedMAlshoki)
 - Email: ahmed.m.alshoki@gmail.com
+- LinkedIn : [Ahmed Alshoki](https://www.linkedin.com/in/ahmed-alshoki/)
 
 If you're interested in discussing collaborations or just want to have a chat, feel free to reach out via email. I'm always excited to connect with like-minded individuals.
 
